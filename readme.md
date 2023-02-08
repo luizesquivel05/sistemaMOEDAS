@@ -23,16 +23,16 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 
 ## 🚀 Instalando sistemaMOEDAS:
 
-Para instalar o <sistemaMOEDAS>, siga estas etapas:
+Para instalar o sistemaMOEDAS, siga estas etapas:
 
 No git (rodado pelo terminal):
 ```
     git clone 
 ```
 
-## ☕ Usando <sistemaMOEDAS>
+## ☕ Usando sistemaMOEDAS:
 
-Para usar <sistemaMOEDAS>, siga estas etapas:
+Para usar sistemaMOEDAS, siga estas etapas:
 
 ```
     Abrir o terminal (shell) na pasta (diretório) em que se encontra o projeto.
@@ -40,8 +40,8 @@ Para usar <sistemaMOEDAS>, siga estas etapas:
     Usar o comando: python index.py
 ```
 
-## 📫 Contribuindo para <sistemaMOEDAS>
-Para contribuir com <sistemaMOEDAS>, siga estas etapas:
+## 📫 Contribuindo para sistemaMOEDAS
+Para contribuir com sistemaMOEDAS, siga estas etapas:
 
 1. Bifurque (clone) este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
