@@ -63,7 +63,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://avatars.githubusercontent.com/u/62815987?s=400&u=89a8bd3ba4ab474195bd67aa1152ca50a62f02c1&v=4">
+      <a href="luiz.png">
         <img src="https://github.com/account" width="100px;" alt="Foto de Luiz Esquivel"/><br>
         <sub>
           <b>Luiz Esquivel - 20 anos, médio completo, analista de dados Jr.</b>
