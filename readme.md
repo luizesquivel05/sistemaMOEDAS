@@ -11,8 +11,8 @@ Atenção, o projeto ainda está em desenvolvimento e as próximas atualizaçõe
 - [x] Algoritmização do sistema de sortei.
 - [x] Implementação do algoritmo;
 - [x] Criação da CLI;
-- [ ] Criação e implementação de interface gráfica;
-- [ ] Geração de uma aplicação de Sistema (para Windows e Linux).
+- [x] Criação e implementação de interface gráfica;
+- [x] Geração de uma aplicação de Sistema (para Windows e Linux).
 
 ## 💻 Pré-requisitos:
 
@@ -34,11 +34,10 @@ No git (rodado pelo terminal):
 
 Para usar sistemaMOEDAS, siga estas etapas:
 
-```
-    Abrir o terminal (shell) na pasta (diretório) em que se encontra o projeto.
-
-    Usar o comando: python index.py
-```
+1. Clique para executar o 'moedas.exe'
+2. Na janela que abrir ler instruções básicas;
+3. Em seguida, clicar em 'SORTEIO DA MOEDA'.
+4. Abaixo do botão vai aparecer o resultado do sorteio
 
 ## 📫 Contribuindo para sistemaMOEDAS
 Para contribuir com sistemaMOEDAS, siga estas etapas:
